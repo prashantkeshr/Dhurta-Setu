@@ -1,0 +1,5 @@
+node_modules/
+favicons/update-log.json
+*.log
+.DS_Store
+Thumbs.db
